@@ -5,7 +5,7 @@ import random
 import socket
 
 print "Contributor:KoushikAvula"
-print "Profile:https://www.koushikavula.in"
+print "Profile:http://www.koushikavula.in"
 print "Github:https://github.com/koushikavula" 
 sock=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 bytes=random._urandom(1024)
